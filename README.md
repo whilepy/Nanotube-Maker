@@ -39,10 +39,10 @@ This program is used to quickly generate nanotubes with or without thickness.
 联系方式: 896180667@qq.com  
 有什么不懂可以联系。  
 # 效果展示
-![image](https://github.com/whilepy/Nanotube-Maker/edit/main/iamge/1.jpg)
-![image](https://github.com/whilepy/Nanotube-Maker/edit/main/iamge/2.jpg)
-![image](https://github.com/whilepy/Nanotube-Maker/edit/main/iamge/3.jpg)
-![image](https://github.com/whilepy/Nanotube-Maker/edit/main/iamge/4.jpg)
-![image](https://github.com/whilepy/Nanotube-Maker/edit/main/iamge/5.jpg)
-![image](https://github.com/whilepy/Nanotube-Maker/edit/main/iamge/6.jpg)
-![image](https://github.com/whilepy/Nanotube-Maker/edit/main/iamge/7.jpg)
+![image](https://github.com/whilepy/Nanotube-Maker/blob/main/image/1.jpg)  
+![image](https://github.com/whilepy/Nanotube-Maker/blob/main/iamge/2.jpg)  
+![image](https://github.com/whilepy/Nanotube-Maker/blob/main/iamge/3.jpg)  
+![image](https://github.com/whilepy/Nanotube-Maker/blob/main/iamge/4.jpg)  
+![image](https://github.com/whilepy/Nanotube-Maker/blob/main/iamge/5.jpg)  
+![image](https://github.com/whilepy/Nanotube-Maker/blob/main/iamge/6.jpg)  
+![image](https://github.com/whilepy/Nanotube-Maker/blob/main/iamge/7.jpg)  
